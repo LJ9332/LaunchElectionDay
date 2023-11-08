@@ -1,4 +1,6 @@
 ﻿namespace LaunchElectionDay
 {
-    public class Candidate { }
+    public class Candidate { 
+        
+    }
 }
